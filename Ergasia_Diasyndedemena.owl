@@ -1,0 +1,331 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://ergasia.com/Alzheimer&apos;sDisease"
+     xml:base="http://ergasia.com/Alzheimer&apos;sDisease"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:mesh="http://id.nlm.nih.gov/mesh/"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:vocab="http://id.nlm.nih.gov/mesh/vocab#">
+    <owl:Ontology rdf:about="http://ergasia.com/Alzheimer&apos;sDisease"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/D000544 -->
+
+    <owl:AnnotationProperty rdf:about="http://id.nlm.nih.gov/mesh/D000544"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/M0030649 -->
+
+    <owl:AnnotationProperty rdf:about="http://id.nlm.nih.gov/mesh/M0030649"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/vocab#active -->
+
+    <owl:AnnotationProperty rdf:about="http://id.nlm.nih.gov/mesh/vocab#active"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/vocab#allowableQualifier -->
+
+    <owl:AnnotationProperty rdf:about="http://id.nlm.nih.gov/mesh/vocab#allowableQualifier"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/vocab#broaderDescriptor -->
+
+    <owl:AnnotationProperty rdf:about="http://id.nlm.nih.gov/mesh/vocab#broaderDescriptor"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/vocab#concept -->
+
+    <owl:AnnotationProperty rdf:about="http://id.nlm.nih.gov/mesh/vocab#concept"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/vocab#dateCreated -->
+
+    <owl:AnnotationProperty rdf:about="http://id.nlm.nih.gov/mesh/vocab#dateCreated"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/vocab#identifier -->
+
+    <owl:AnnotationProperty rdf:about="http://id.nlm.nih.gov/mesh/vocab#identifier"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/vocab#prefLabel -->
+
+    <owl:AnnotationProperty rdf:about="http://id.nlm.nih.gov/mesh/vocab#prefLabel"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/vocab#preferredConcept -->
+
+    <owl:AnnotationProperty rdf:about="http://id.nlm.nih.gov/mesh/vocab#preferredConcept"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/vocab#preferredTerm -->
+
+    <owl:AnnotationProperty rdf:about="http://id.nlm.nih.gov/mesh/vocab#preferredTerm"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/vocab#seeAlso -->
+
+    <owl:AnnotationProperty rdf:about="http://id.nlm.nih.gov/mesh/vocab#seeAlso"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/vocab#treeNumber -->
+
+    <owl:AnnotationProperty rdf:about="http://id.nlm.nih.gov/mesh/vocab#treeNumber"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/C10.228.140.380.100 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/C10.228.140.380.100"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/C10.574.945.249 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/C10.574.945.249"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/D000544 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/D000544"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/D003704 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/D003704"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/D016229 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/D016229"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/D016564 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/D016564"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/D016657 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/D016657"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/D024801 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/D024801"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/F03.615.400.100 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/F03.615.400.100"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/M0000842 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/M0000842"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/M0005798 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/M0005798"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/M0030649 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/M0030649"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/M0030652 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/M0030652"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/M0030657 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/M0030657"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/M0030849 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/M0030849"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/M0030850 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/M0030850"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/M0333961 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/M0333961"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/M0584546 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/M0584546"/>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/Q000139 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/Q000139">
+        <vocab:active xml:lang="en">true</vocab:active>
+        <vocab:concept rdf:resource="https://id.nlm.nih.gov/mesh/M0030322"/>
+        <vocab:identifier xml:lang="en">Q000139</vocab:identifier>
+        <vocab:treeNumber rdf:resource="https://id.nlm.nih.gov/mesh/Y05.010"/>
+        <rdfs:label xml:lang="en">Chemically Induced</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/Q000453 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/Q000453">
+        <vocab:active xml:lang="en">true</vocab:active>
+        <vocab:concept rdf:resource="http://id.nlm.nih.gov/mesh/M0030649"/>
+        <vocab:concept rdf:resource="http://id.nlm.nih.gov/mesh/M0030652"/>
+        <vocab:concept rdf:resource="http://id.nlm.nih.gov/mesh/M0030657"/>
+        <vocab:identifier xml:lang="en">Q000453</vocab:identifier>
+        <vocab:treeNumber rdf:resource="https://id.nlm.nih.gov/mesh/Y09.010"/>
+        <rdfs:label xml:lang="en">Epidemiology</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/Q000652 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/Q000652">
+        <vocab:active xml:lang="en">true</vocab:active>
+        <vocab:concept rdf:resource="http://id.nlm.nih.gov/mesh/M0030849"/>
+        <vocab:concept rdf:resource="http://id.nlm.nih.gov/mesh/M0030850"/>
+        <vocab:identifier xml:lang="en">Q000652</vocab:identifier>
+        <vocab:treeNumber rdf:resource="https://id.nlm.nih.gov/mesh/Y01.040"/>
+        <vocab:treeNumber rdf:resource="https://id.nlm.nih.gov/mesh/Y08.040.070"/>
+        <rdfs:label xml:lang="en">Urine</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://id.nlm.nih.gov/mesh/T001655 -->
+
+    <owl:Class rdf:about="http://id.nlm.nih.gov/mesh/T001655">
+        <vocab:active xml:lang="en">true</vocab:active>
+        <vocab:dateCreated xml:lang="en">1999-01-01</vocab:dateCreated>
+        <vocab:prefLabel xml:lang="en">Alzheimer Disease</vocab:prefLabel>
+    </owl:Class>
+    
+
+
+    <!-- https://id.nlm.nih.gov/mesh/M0030322 -->
+
+    <owl:Class rdf:about="https://id.nlm.nih.gov/mesh/M0030322"/>
+    
+
+
+    <!-- https://id.nlm.nih.gov/mesh/Y01.040 -->
+
+    <owl:Class rdf:about="https://id.nlm.nih.gov/mesh/Y01.040"/>
+    
+
+
+    <!-- https://id.nlm.nih.gov/mesh/Y05.010 -->
+
+    <owl:Class rdf:about="https://id.nlm.nih.gov/mesh/Y05.010"/>
+    
+
+
+    <!-- https://id.nlm.nih.gov/mesh/Y08.040.070 -->
+
+    <owl:Class rdf:about="https://id.nlm.nih.gov/mesh/Y08.040.070"/>
+    
+
+
+    <!-- https://id.nlm.nih.gov/mesh/Y09.010 -->
+
+    <owl:Class rdf:about="https://id.nlm.nih.gov/mesh/Y09.010"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://id.nlm.nih.gov/mesh/D000544">
+        <vocab:active xml:lang="en">true</vocab:active>
+        <rdfs:label xml:lang="en">Alzheimer&apos;s_Disease</rdfs:label>
+        <vocab:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000139"/>
+        <vocab:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000453"/>
+        <vocab:allowableQualifier rdf:resource="http://id.nlm.nih.gov/mesh/Q000652"/>
+        <vocab:identifier xml:lang="en">D000544</vocab:identifier>
+        <vocab:preferredTerm rdf:resource="http://id.nlm.nih.gov/mesh/T001655"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#Thing">
+        <mesh:D000544 rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#http://id.nlm.nih.gov/mesh/D000544">
+        <mesh:D000544 rdf:resource="http://ergasia.com/Alzheimer&apos;sDisease"/>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
